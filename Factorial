@@ -1,4 +1,4 @@
 int main(){
-    printf("Hola uwu);
+    printf("Hola uwu");
     return 0;
 }
